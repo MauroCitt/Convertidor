@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools" xmlns:name="http://schemas.android.com/apk/res-auto">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Conversor" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/green_normal</item>
+        <item name="colorPrimaryVariant">@color/green_dark</item>
+    </style>
+
+    <style name="Theme.Conversor" parent="Base.Theme.Conversor" />
+
+    <style name="BotonNavegacion">
+        <item name="android:background">@color/green_dark</item>
+        <item name="itemIconTint">@color/green_light_2</item>
+        <item name="itemTextColor">@color/green_light</item>
+    </style>
+</resources>

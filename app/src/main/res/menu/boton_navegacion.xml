@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/primerFragmento"
+        android:icon="@drawable/baseline_thermostat_20"
+        android:title="Temperature"/>
+
+    <item
+        android:id="@+id/segundoFragmento"
+        android:icon="@drawable/baseline_scale_20"
+        android:title="Mass"/>
+    <item
+        android:id="@+id/tercerFragmento"
+        android:icon="@drawable/baseline_route_20"
+        android:title="Length"/>
+
+</menu>
